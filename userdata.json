@@ -1,0 +1,19 @@
+{
+	"version": "1.0",
+	"user": {
+		"balance": 0,
+		"pps": 0,
+		"prestige": 0,
+		"lastsave": 0,
+		"cooldown": 0
+	},
+	"upgrades": {
+	
+	},
+	"features": {
+	
+	},
+	"statistics": {
+	
+	}
+}

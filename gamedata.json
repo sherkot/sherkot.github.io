@@ -1,0 +1,313 @@
+{
+	"upgrades": {
+		"guanti_idraulici":{
+			"name": "guanti idraulici",
+			"desc": "pressione extra per ogni click",
+			"initialCost": 10,
+			"currentCost": 10,
+			"pps": 1,
+			"level": 0,
+			"isAuto": 0
+			
+		},
+		"toilette_a_flusso_continuo":{
+			"name": "toilette a flusso continuo",
+			"desc": "un flusso costante di click automatici",
+			"initialCost": 50,
+			"currentCost": 50,
+			"pps": 10,
+			"level": -1
+			
+		},
+		"sturacessi_semplice":{
+			"name": "sturacessi semplice",
+			"desc": "il tuo amico anti-intoppi",
+			"initialCost": 100,
+			"currentCost": 100,
+			"pps": 30,
+			"level": -1
+			
+		},
+		"tavoletta_riscaldata":{
+			"name": "tavoletta riscaldata",
+			"desc": "un toccasana per le gelide mattine",
+			"initialCost": 200,
+			"currentCost": 200,
+			"pps": 90,
+			"level": -1
+			
+		},
+		"tisana_digestiva":{
+			"name": "tisana digestiva",
+			"desc": "stimola una rapida digestione",
+			"initialCost": 500,
+			"currentCost": 500,
+			"pps": 120,
+			"level": -1
+			
+		},
+		"pizza_diavola":{
+			"name": "pizza diavola",
+			"desc": "ogni morso uno stimolo in piu",
+			"initialCost": 1000,
+			"currentCost": 1000,
+			"pps": 300,
+			"level": -1
+			
+		},
+		"carta_igienica_infinita":{
+			"name": "carta igienica infinita",
+			"desc": "per sessioni interminabili!",
+			"initialCost": 10000,
+			"currentCost": 10000,
+			"pps": 500,
+			"level": -1
+			
+		},
+		"wc_ergonomico":{
+			"name": "wc ergonomico",
+			"desc": "modellato su misura per il tuo fondoschiena",
+			"initialCost": 50000,
+			"currentCost": 50000,
+			"pps": 1100,
+			"level": -1
+			
+		},
+		"caffe_espresso_doppio":{
+			"name": "caffe espresso doppio",
+			"desc": "un boost di energia istantaneo",
+			"initialCost": 100000,
+			"currentCost": 100000,
+			"pps": 2500,
+			"level": -1
+			
+		},
+		"spazzolone_professionale":{
+			"name": "spazzolone professionale",
+			"desc": "pulizia impeccabile e profonda",
+			"initialCost": 300000,
+			"currentCost": 300000,
+			"pps": 4700,
+			"level": -1
+			
+		},
+		"supposta_effervescente":{
+			"name": "supposta effervescente",
+			"desc": "una spinta per l'evacuazione",
+			"initialCost": 800000,
+			"currentCost": 800000,
+			"pps": 9000,
+			"level": -1
+			
+		},
+		"pasta_e_fagioli":{
+			"name": "pasta e fagioli",
+			"desc": "produzione esplosiva garantita!",
+			"initialCost": 1200000,
+			"currentCost": 1200000,
+			"pps": 14000,
+			"level": -1
+			
+		},
+		"dispenser_di_sapone":{
+			"name": "dispenser di sapone",
+			"desc": "erogazione automatica, tempo risparmiato",
+			"initialCost": 2000000,
+			"currentCost": 2000000,
+			"pps": 25000,
+			"level": -1
+			
+		},
+		"wc_aspirante":{
+			"name": "wc aspirante",
+			"desc": "succhia via i problemi (e il resto)",
+			"initialCost": 10000000,
+			"currentCost": 10000000,
+			"pps": 55000,
+			"level": -1
+			
+		},
+		"smoothie_di_prugne":{
+			"name": "smoothie di prugne",
+			"desc": "rimedio naturale a una lenta digestione",
+			"initialCost": 30000000,
+			"currentCost": 30000000,
+			"pps": 100000,
+			"level": -1
+			
+		},
+		"spazzolone_elettrico":{
+			"name": "spazzolone elettrico",
+			"desc": "pulizia piu veloce e senza sforzo",
+			"initialCost": 70000000,
+			"currentCost": 70000000,
+			"pps": 150000,
+			"level": -1
+			
+		},
+		"sturacessi_automatico":{
+			"name": "sturacessi automatico",
+			"desc": "zero intoppi, meno problemi",
+			"initialCost": 250000000,
+			"currentCost": 250000000,
+			"pps": 300000,
+			"level": -1
+			
+		},
+		"sushi_avariato":{
+			"name": "sushi avariato",
+			"desc": "all you can...",
+			"initialCost": 600000000,
+			"currentCost": 600000000,
+			"pps": 500000,
+			"level": -1
+			
+		},
+		"liquido_lubrificante":{
+			"name": "liquido lubrificante",
+			"desc": "flusso liscio come l'olio",
+			"initialCost": 1200000000,
+			"currentCost": 1200000000,
+			"pps": 900000,
+			"level": -1
+			
+		},
+		"wc_tecnologico":{
+			"name": "wc tecnologico",
+			"desc": "funzioni automatiche per comfort estremo",
+			"initialCost": 3200000000,
+			"currentCost": 3200000000,
+			"pps": 1400000,
+			"level": -1
+			
+		},
+		"patatina_infernale":{
+			"name": "patatina infernale",
+			"desc": "la patatina piu piccante al mondo",
+			"initialCost": 8000000000,
+			"currentCost": 8000000000,
+			"pps": 2600000,
+			"level": -1
+			
+		},
+		"lassativo_500mg":{
+			"name": "lassativo 500mg",
+			"desc": "una dose per risultati veloci ed efficaci",
+			"initialCost": 24000000000,
+			"currentCost": 24000000000,
+			"pps": 4000000,
+			"level": -1
+			
+		},
+		"asciugatore_turbo":{
+			"name": "asciugatore turbo",
+			"desc": "addio carta, benvenuto futuro",
+			"initialCost": 60000000000,
+			"currentCost": 60000000000,
+			"pps": 8000000,
+			"level": -1
+			
+		},
+		"carolina_reaper":{
+			"name": "carolina reaper",
+			"desc": "un boccone di fuoco per risultati immediati",
+			"initialCost": 11000000000,
+			"currentCost": 11000000000,
+			"pps": 14500000,
+			"level": -1
+			
+		},
+		"bidet_a_propulsione":{
+			"name": "bidet a propulsione",
+			"desc": "pulizia supersonica per ripartenze lampo",
+			"initialCost": 30000000000,
+			"currentCost": 30000000000,
+			"pps": 30000000,
+			"level": -1
+			
+		},
+		"hyper_spazzolone":{
+			"name": "hyper spazzolone",
+			"desc": "nanotecnologia e ai integrata",
+			"initialCost": 80000000000,
+			"currentCost": 80000000000,
+			"pps": 50000000,
+			"level": -1
+			
+		},
+		"toilette_xxl":{
+			"name": "toilette xxl",
+			"desc": "per necessita extra large",
+			"initialCost": 160000000000,
+			"currentCost": 160000000000,
+			"pps": 100000000,
+			"level": -1
+			
+		},
+		"vortex_6000":{
+			"name": "vortex 6000",
+			"desc": "genera un tornado nel tuo water",
+			"initialCost": 300000000000,
+			"currentCost": 300000000000,
+			"pps": 150000000,
+			"level": -1
+			
+		},
+		"wc_antigravitazionale":{
+			"name": "wc antigravitazionale",
+			"desc": "la forza di gravita e dalla tua parte",
+			"initialCost": 600000000000,
+			"currentCost": 600000000000,
+			"pps": 240000000,
+			"level": -1
+			
+		},
+		"quantum_flush":{
+			"name": "quantum flush",
+			"desc": "sfrutta i buchi neri per scaricare",
+			"initialCost": 1200000000000,
+			"currentCost": 1200000000000,
+			"pps": 500000000,
+			"level": -1
+			
+		}
+	},
+	"prestige": [
+		{
+			"name": "toilette pubblica",
+			"next": 1000,
+			"multiplier": 1,
+			"available": 1
+		},
+		{
+			"name": "hotel 3 stelle",
+			"next": 10000,
+			"multiplier": 1.5,
+			"available": 1
+		},
+		{
+			"name": "ristorante stellato",
+			"next": 100000,
+			"multiplier": 2,
+			"available": 1
+		},
+		{
+			"name": "bagno presidenziale",
+			"next": 1000000,
+			"multiplier": 3,
+			"available": 1
+		},
+		{
+			"name": "bagno spaziale",
+			"next": 10000000,
+			"multiplier": 4,
+			"available": 1
+		},
+		{
+			"name": "coming soon",
+			"next": 100000000,
+			"multiplier": 5,
+			"available": 0
+		}
+	]
+}
